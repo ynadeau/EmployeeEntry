@@ -1,6 +1,6 @@
-#Basic project
+#Employee Entry
 
-*Simple Project*
+*Employee Entry*
 
 **Java 7**
 
